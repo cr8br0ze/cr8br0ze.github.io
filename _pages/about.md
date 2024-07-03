@@ -9,11 +9,11 @@ redirect_from:
 
 # About Me
 
-I am a Computer Science Master's student in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/)@[Notheastern Univeristy](https://northeastern.edu/) worked with xxx. Before that, I obtained my Bachelor's degree in Mathematics from [University of California, San Diego (UCSD)](https://ucsd.edu/). My primary research interests include computer vision and deep learning, mainly focusing on model generalization, 2D/3D generation and continual learning.<!-- [Prof. Huaizu Jiang](https://jianghz.me/) and [Prof. Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/) -->
+I am a Computer Science Master's student in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/)@[Notheastern Univeristy](https://northeastern.edu/) worked with xxx. Before that, I obtained my Bachelor's degree in Mathematics from [University of California, San Diego (UCSD)](https://ucsd.edu/). My primary research interest lies in computer vision and deep learning, mainly focusing on model generalization, 2D/3D generation and continual learning.<!-- [Prof. Huaizu Jiang](https://jianghz.me/) and [Prof. Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/) -->
 
 # News
 
-- **2024.06**: Two papers are accepted by ECCV 2024!
+**2024.06**: Two papers are accepted by ECCV 2024!
 
 # Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/Diffclass.png' alt="sym" width="30%"></div></div>
