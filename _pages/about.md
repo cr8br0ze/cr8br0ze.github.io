@@ -16,7 +16,7 @@ I am a Computer Science Master's student in the [Khoury College of Computer Scie
 **2024.06**: Two papers are accepted by ECCV 2024!
 
 # Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/Diffclass.png' alt="sym" width="25%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/Diffclass.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DiffClass: Diffusion-Based Class Incremental Learning
@@ -26,7 +26,7 @@ I am a Computer Science Master's student in the [Khoury College of Computer Scie
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/InstructGIE.png' alt="sym" width="25%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/InstructGIE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [InstructGIE: Towards Generalizable Image Editing
