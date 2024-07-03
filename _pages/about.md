@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-I am a Computer Science Master's student in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/)@[Notheastern Univeristy](https://northeastern.edu/) worked with . Before that, I obtained my Bachelor's degree in Mathematics from [University of California, San Diego (UCSD)](https://ucsd.edu/). My primary research interest lies in computer vision and deep learning, mainly focusing on model generalization, 2D/3D generation and continual learning.<!-- [Prof. Huaizu Jiang](https://jianghz.me/) and [Prof. Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/) -->
+I am a Computer Science Master's student in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/) at [Notheastern Univeristy](https://northeastern.edu/) worked with . Before that, I obtained my Bachelor's degree in Mathematics from [University of California, San Diego (UCSD)](https://ucsd.edu/). My primary research interest lies in computer vision and deep learning, mainly focusing on model generalization, 2D/3D generation and continual learning.<!-- [Prof. Huaizu Jiang](https://jianghz.me/) and [Prof. Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/) -->
 
 # News
 
