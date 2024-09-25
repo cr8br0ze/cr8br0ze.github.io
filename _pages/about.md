@@ -15,7 +15,7 @@ I am a Computer Science Master's student in the [Khoury College of Computer Scie
 
 **2024.09**: Two papers are accepted by NeurIPS 2024!
 
-**2024.06**: Two First/Co-First Authored papers are accepted by ECCV 2024!
+**2024.06**: Two first-authored papers are accepted by ECCV 2024!
 
 # Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/Diffclass.png' alt="sym" width="100%"></div></div>
