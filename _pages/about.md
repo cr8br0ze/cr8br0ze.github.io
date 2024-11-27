@@ -50,7 +50,7 @@ Zheng Zhan\*, Zhenglun Kong\*, Yifan Gong\*, Yushu Wu, **Zichong Meng**, Hangyu 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/FMEDiffusion.png alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/FMEDiffusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fast and Memory-Efficient Video Diffusion Using Streamlined Inference
