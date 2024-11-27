@@ -1,1 +1,1 @@
-This is the source code to Zichong Meng's academic website: https://cr8br0ze.github.io/. Thanks to Jon Barron's template.
+This is the source code to Zichong Meng's academic website: https://cr8br0ze.github.io/. Thanks to Jon Barron's academic website template.
